@@ -8,3 +8,4 @@ sample image result : ![예시 이미지 결과](image/test_image_result.png)
 
 performance : ![성능 결과 그래프](image/graph.png)
 
+performance data : ![성능 결과 데이터](image/visualization_result.png)
